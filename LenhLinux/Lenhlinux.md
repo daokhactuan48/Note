@@ -7,4 +7,5 @@ Trên Ubuntu:
     sudo update-rc.d tendichvu defaults
 
 Trên Centos: 
+
     chkconfig tendichvu on 
